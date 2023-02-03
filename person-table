@@ -6,7 +6,7 @@ function printTable() {
     }, {
         name: "Jane",
         age: 34,
-        city: "London"
+        city: "Toronto"
     }, {
         name: "Jim",
         age: 40,
