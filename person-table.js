@@ -2,7 +2,7 @@ function printTable() {
     var data = [{
         name: "John",
         age: 28,
-        city: "New York"
+        city: "Boston"
     }, {
         name: "Jane",
         age: 34,
@@ -12,7 +12,7 @@ function printTable() {
         age: 49,
         city: "Paris"
     }];
-    var table = "<table border='1'><tr><th>Name</th><th>Age</th><th>City</th></tr>";
+    var table = "<table border='7'><tr><th>Name</th><th>Age</th><th>City</th></tr>";
     for (var i = 0; i < data.length; i++) {
         table += "<tr>";
         table += "<td>" + data[i].name + "</td>";
