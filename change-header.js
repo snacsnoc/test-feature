@@ -1,1 +1,1 @@
-document.querySelector('.changeme').textContent = 'New text';
+document.querySelector('.changeme').textContent = 'New header text';
