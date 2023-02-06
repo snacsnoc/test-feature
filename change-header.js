@@ -1,1 +1,1 @@
-document.querySelector('.changeme').textContent = 'Lorem header text';
+document.querySelector('.changeme').textContent = 'Header text';
