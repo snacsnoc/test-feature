@@ -9,7 +9,7 @@ function printTable() {
         city: "Toronto"
     }, {
         name: "Jim",
-        age: 49,
+        age: 42,
         city: "Paris"
     }];
     var table = "<table border='7'><tr><th>Name</th><th>Age</th><th>City</th></tr>";
