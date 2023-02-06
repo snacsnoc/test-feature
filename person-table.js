@@ -1,7 +1,7 @@
 function printTable() {
     var data = [{
         name: "John",
-        age: 28,
+        age: 22,
         city: "Boston"
     }, {
         name: "Jane",
