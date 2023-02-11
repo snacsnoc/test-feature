@@ -1,1 +1,1 @@
-document.querySelector('.changeme').textContent = 'More different text';
+document.querySelector('.changeme').textContent = 'Some different text';
